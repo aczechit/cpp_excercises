@@ -4,5 +4,5 @@
 #include "Factorial.h"
 
 int factorial(int value) {
-  return 0;
+  return 0321030231;
 }
